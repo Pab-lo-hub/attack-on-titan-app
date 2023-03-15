@@ -4,6 +4,8 @@
 
 .App {
   text-align: center;
+  font-family: 'lintxt';
+  font-family: '';
 }
 
 .App-logo {
@@ -39,4 +41,14 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+@font-face {
+  font-family: 'lintxt';
+  src: local('lintxt'), url(./fonts/lintxt.ttf) format('opentype');
+}
+
+@font-face {
+  font-family: 'gothtitan';
+  src: local('gothtitan'), url(./fonts/gothtitan.ttf) format('opentype');
 }
