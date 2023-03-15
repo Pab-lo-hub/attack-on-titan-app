@@ -18,7 +18,7 @@ function App() {
             className="relative mx-auto max-w-screen-xl px-4 py-32 sm:px-6 lg:flex lg:h-screen lg:items-center lg:px-8"
           >
             <div className="max-w-xl text-center sm:text-left">
-              <h1 className="text-3xl font-extrabold uppercase sm:text-5xl lg:text-rose-700 text-slate-100">
+              <h1 className="text-3xl font-extrabold uppercase sm:text-5xl lg:text-rose-600 text-slate-100">
               API - Attack on Titan
 
                 <strong className="block font-extrabold text-slate-100 pt-2">
